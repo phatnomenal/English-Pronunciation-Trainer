@@ -30,12 +30,6 @@ pronunciation-trainer/
             └── ResultBox.jsx
 ```
 
----
-
-> *Note:* this repo intentionally keeps things minimal and dependency-light. No Tailwind. Pure React + vanilla CSS. Whisper runs locally on the backend (you need `ffmpeg` installed and Python environment).
-
----
-
 ## File contents
 
 ### `.gitignore`
